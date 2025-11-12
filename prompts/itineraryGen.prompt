@@ -43,7 +43,7 @@ In the plan for day array, put activities as a travel brochure might do.
 Come up with a catchy name for the itinerary.
 Pick three activities per day, minimum of three day trip unless otherwise specified in the request.
 Output schema should not include the properties type or object.
-Pick a date after May 14, 2024 but before December 31, 2024
+Pick a date after May 14, 2025 but before December 31, 2026
 Give each activity a unique title and description.
 Limit activity descriptions to 6 words.
 

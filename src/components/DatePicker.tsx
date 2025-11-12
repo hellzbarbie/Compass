@@ -54,7 +54,7 @@ export default function DatePicker({
         <div className="flex flex-col gap-5">
           <div className="flex justify-between items-center text-gray-400">
             <Chevron />
-            <span className="text-base">May 2024</span>
+            <span className="text-base">November 2025</span>
             <Chevron className="rotate-180" />
           </div>
 
